@@ -1,2 +1,2 @@
 # SmartCoding-Website
-SmartCoding´s second assignment using HTML and CSS.
+SmartCoding´s second assignment using HTML, CSS and JavaScript.
