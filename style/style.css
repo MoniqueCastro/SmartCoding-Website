@@ -47,7 +47,7 @@ nav {
 }
 
 .nav-links li:hover {
-    text-shadow: 2px 2px #91909080;
+    text-shadow: 2px 2px rgb(62, 116, 177);
 }
 
 .image {
